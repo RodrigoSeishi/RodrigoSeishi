@@ -25,14 +25,14 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoSeishi&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: seu-link-aqui
-* Email: seu-email-aqui
+* LinkedIn: [Rodrigo Kitazono](www.linkedin.com/in/rodrigo-kitazono)
+* Email: seishicomercial@gmail.com
 
 ---
 
